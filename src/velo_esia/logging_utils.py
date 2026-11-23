@@ -1,0 +1,1 @@
+""" Configuration du module logging (console + fichier log) """

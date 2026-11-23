@@ -1,0 +1,1 @@
+""" Chargement, priorité (CLI > config.yaml > défaut) et validation config.yaml """

@@ -1,0 +1,1 @@
+""" Rendu terminal (Rich / tableaux / messages / dashboard) séparé des calculs """
