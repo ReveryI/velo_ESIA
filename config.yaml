@@ -1,0 +1,11 @@
+network:
+  name: V ’ Lille
+  gbfs_url: https://media.ilevia.fr/opendata/gbfs.json
+
+data:
+  folder: /velo_ESIA/
+  
+refresh:
+  max_age_days: 7 # au-delà : avertissement
+  
+collect : interval_seconds : 120 # minimum 60 alerts : low_bikes : 2 # 2 v é los ou moins : presque vide low_docks : 2 # 2 places ou moins : presque pleine dashboard : refresh_seconds : 60 # minimum 60 logging : level : INFO
