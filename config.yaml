@@ -20,3 +20,4 @@ dashboard:
   
 logging:
 level: INFO
+file: /velo_ESIA/velo.log
