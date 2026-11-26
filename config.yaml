@@ -13,7 +13,7 @@ collect:
 
 alerts:
   low_bikes: 2 # 2 vélos ou moins : presque vide
-  low_docks : 2 # 2 places ou moins : presque pleine
+  low_docks: 2 # 2 places ou moins : presque pleine
   
 dashboard:
   refresh_seconds: 60 # minimum 60
