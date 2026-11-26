@@ -1,5 +1,5 @@
 network:
-  name: V ’ Lille
+  name: V'Lille
   gbfs_url: https://media.ilevia.fr/opendata/gbfs.json
 
 data:
