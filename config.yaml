@@ -8,4 +8,15 @@ data:
 refresh:
   max_age_days: 7 # au-delà : avertissement
   
-collect : interval_seconds : 120 # minimum 60 alerts : low_bikes : 2 # 2 v é los ou moins : presque vide low_docks : 2 # 2 places ou moins : presque pleine dashboard : refresh_seconds : 60 # minimum 60 logging : level : INFO
+collect:
+  interval_seconds: 120 # minimum 60 
+
+alerts:
+  low_bikes: 2 # 2 vélos ou moins : presque vide
+  low_docks : 2 # 2 places ou moins : presque pleine
+  
+dashboard:
+  refresh_seconds: 60 # minimum 60
+  
+logging:
+level: INFO
